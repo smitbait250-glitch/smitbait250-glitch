@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Smit
 
-<!--
-**smitbait250-glitch/smitbait250-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BE Computer Engineering Student
 
-Here are some ideas to get you started:
+I'm a computer engineering student who enjoys learning programming, solving problems, and building things with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Skills & Technologies
+
+- 💻 **C**
+- ⚡ **C++**
+- 🐍 **Python**
+- ☕ **Java**
+- 🌐 **HTML & CSS**
+- 🧠 **DSA**
+- 📝 **WordPress**
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Programming
+- Data Structures & Algorithms
+- Web Development
+- Software Development
+
+---
+
+## 🎯 My Goals
+
+> Learn continuously.  
+> Build consistently.  
+> Improve every day.
+
+---
+
+## 🤝 Connect With Me
+
+📍 Mumbai, India 🇮🇳
+
+---
+
+⭐ Thanks for visiting my profile!
